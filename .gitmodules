@@ -1,3 +1,6 @@
 [submodule "bundle/vim-perl"]
 	path = bundle/vim-perl
 	url = https://github.com/vim-perl/vim-perl
+[submodule "bundle/perl-vim"]
+	path = bundle/perl-vim
+	url = https://github.com/rkitover/perl-vim-mxd
